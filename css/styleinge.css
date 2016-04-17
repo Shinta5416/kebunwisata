@@ -1,4 +1,4 @@
-.field{
+﻿.field{
     width: 100%;
     height: 100%;
     background-image: url(../images/field.jpg);
@@ -33,4 +33,5 @@
 }
 .isi{
     background-image: url(../images/bunga.gif);
+    margin:0px 0px 0px 0px;
 }
